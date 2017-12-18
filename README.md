@@ -1,2 +1,3 @@
-# crypto_data_tools
+# Crypto Data Tools
+
 Tools for pulling historical crypto data
